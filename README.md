@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Putri Widia Sari
 - 👀 I’m interested in Data Visualization
 - 🌱 I’m currently learning Python, Matplotlib, Capstone, NLP, Big Data & Spark
-- 📫 How to reach me sariwidiaputri1@gmail.com
+- 📫 How to reach me putrwidia0414@@gmail.com
 - ⚡ Fun fact: Frequently, Mood Swing *LOL
 
 <!---
